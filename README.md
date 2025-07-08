@@ -1,1 +1,1 @@
-## this projec will be updated in Modular Code Structure Later..
+## this project will be updated in Modular Code Structure Later..
